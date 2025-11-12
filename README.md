@@ -18,8 +18,8 @@ A modern, secure note-taking API built with NestJS, featuring Google OAuth authe
 
 Before running this application, make sure you have the following installed:
 
-- **Node.js** (v18 or higher)
-- **pnpm** (v8 or higher) - `npm install -g pnpm`
+- **Node.js** (Latest LTS)
+- **pnpm** (Latest LTS) - `npm install -g pnpm`
 - **MongoDB** (local installation or cloud service like MongoDB Atlas)
 - **Google Cloud Console** account for OAuth setup
 
@@ -27,7 +27,7 @@ Before running this application, make sure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Alkaejah/note-app-dev.git
    cd note-app-dev
    ```
 
